@@ -1,4 +1,4 @@
-name: build
+name: process-shell
 
 on:
   workflow_dispatch
